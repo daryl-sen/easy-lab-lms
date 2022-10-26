@@ -1,2 +1,5 @@
-# easy-lab-lms
-A lab management system built for SFU Vision Lab
+# Easy Lab LMS
+
+A simple Lab Management System built for the Vision Lab at Simon Fraser University. 
+
+Details to come
